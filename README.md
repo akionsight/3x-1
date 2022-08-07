@@ -1,2 +1,2 @@
-# 3x-1
+# 3xplus1
 A small visualizer based on matplotlib for the 3x+1 problem for a given number
