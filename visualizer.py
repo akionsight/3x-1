@@ -20,6 +20,7 @@ def three_x_plus_one(num):
     
     return steps
 
+## change the arguments of this function call below to the number you want to visualize
 steps = three_x_plus_one(7225)
 
 print(steps)
